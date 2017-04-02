@@ -1,1 +1,2 @@
-# Themes_3_and_5_Fundamentals
+# Themes 3 and 5 notes
+Notes that were discussed during the theme sessions.
